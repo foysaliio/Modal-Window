@@ -6,6 +6,14 @@ A simple Modal Window project built with HTML, CSS, and JavaScript DOM manipulat
 
 This project demonstrates a simple interactive modal window that can be opened and closed through different user interactions.
 
+## Live Demo
+
+[View Live Demo](https://foysaliio.github.io/Modal-Window/)
+
+## Screenshot
+
+![Modal Window](./assets/foysaliio.github.io_Modal-Window_.png)
+
 ## Features
 
 • Open the modal by clicking the Open button
